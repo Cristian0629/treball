@@ -9,7 +9,10 @@ h2 {
     color: purple;}
 
 img {
-    width: 200px;}
+    height: 200px;
+    margin rigth: 20px;
+    width: 200px;
+}
 
 p {
     text-align: left;
